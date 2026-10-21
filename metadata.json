@@ -1,0 +1,6 @@
+{
+  "name": "BioScope — Interactive Biology Explorer",
+  "description": "Interactive science-learning platform exploring human anatomy, cell structures, DNA and genetics, body systems, and virtual biology laboratory simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
